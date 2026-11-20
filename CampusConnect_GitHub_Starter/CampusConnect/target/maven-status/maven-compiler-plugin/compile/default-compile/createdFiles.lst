@@ -1,0 +1,11 @@
+edu\campusconnect\exception\ValidationException.class
+edu\campusconnect\view\CampusConnectFrame$1.class
+edu\campusconnect\database\DatabaseConnection.class
+edu\campusconnect\dao\ServiceRequestDao.class
+edu\campusconnect\view\CampusConnectFrame$2.class
+edu\campusconnect\view\CampusConnectFrame$Task.class
+edu\campusconnect\service\RequestService.class
+edu\campusconnect\dao\JdbcServiceRequestDao.class
+edu\campusconnect\Main.class
+edu\campusconnect\model\ServiceRequest.class
+edu\campusconnect\view\CampusConnectFrame.class
